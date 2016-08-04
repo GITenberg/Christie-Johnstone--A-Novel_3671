@@ -1,0 +1,34 @@
+_repo: Christie-Johnstone--A-Novel_3671
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: '<p>
+
+  <P><B>Millionaire of the Month:</b> Jack Howington III<br> <B>Source of Fortune:</B>
+  International security corporation<br> <B>The woman he can never have:</B> Meredith
+  Palmer</P><P>When he arrived at Hunter''s Landing, Jack got the surprise of his
+  life. His best friend''s shy little sister had become a breathtaking young woman--with
+  an ax to grind. Still smarting over Jack''s long-ago rejection, Meredith was now
+  intent on luring the mogul into her bed...and her bed was <i>right across the hall.</I>
+  At what cost would Jack keep a decade-old promise? </P>'
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Scotland -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Christie Johnstone: A Novel'
+url: http://www.gutenberg.org/ebooks/3671
