@@ -1,5 +1,8 @@
 _repo: Christie-Johnstone--A-Novel_3671
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reade, Charles
@@ -17,6 +20,8 @@ description: '<p>
   an ax to grind. Still smarting over Jack''s long-ago rejection, Meredith was now
   intent on luring the mogul into her bed...and her bed was <i>right across the hall.</I>
   At what cost would Jack keep a decade-old promise? </P>'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3671#Christie-Johnstone--A-Novel
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
